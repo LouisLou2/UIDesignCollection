@@ -11,12 +11,15 @@ A curated collection of UI design implementations showcasing various design styl
 **Link:** [View Project]()
 
 **Screenshots:**
-- [example1.jpg](#)
-- [example.jpg](#)
+- ![album_shop1.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/album_shop1.png)
+- ![album_shop2.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/album_shop2.png)
+- ![album_shop3.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/album_shop3.png)
+- ![album_shop4.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/album_shop4.png)
+- ![album_shop5.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/album_shop5.png)
 
 **Demo Video:**
-- [example.mp4](#)
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1605865148&bvid=BV1Vm42157MJ&cid=1590466948&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 ---
 
 ### Medical Imaging AI Analysis Tool
