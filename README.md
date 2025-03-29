@@ -20,7 +20,6 @@ A curated collection of UI design implementations showcasing various design styl
 **Demo Video:**
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1605865148&bvid=BV1Vm42157MJ&cid=1590466948&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
----
 
 ### Medical Imaging AI Analysis Tool
 **Type:** UI Only  
