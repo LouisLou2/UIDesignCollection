@@ -25,7 +25,7 @@ A curated collection of UI design implementations showcasing various design styl
 **Type:** UI Only  
 **Design Style:** Shadcn UI Design  
 **Technology:** Flutter Web  
-**Link:** [View Project]()
+**Link:** [View Project](https://github.com/LouisLou2/eyes_care)
 
 **Screenshots:**
 ![medical_imaging1.jpg](https://raw.githubusercontent.com/LouisLou2/UIDesignCollection/refs/heads/master/images/medical_imaging1.jpg)
